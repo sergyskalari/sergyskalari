@@ -11,7 +11,7 @@ Early-career IT professional training toward DevOps/Cloud Engineering, working w
 - ☁️ Studying for **AWS Solutions Architect Associate** and **Terraform Associate**, in parallel
 - 🏠 Running a self-hosted homelab on a **Raspberry Pi 5** (Docker, Portainer, and a few side projects)
 - 🎸 Off the keyboard, you'll find me playing guitar
-- 🏃 Finisher: Madrid Marathon 2026 & Ronda 101K 2026
+- 🏃 Finisher: Madrid Marathon 2026, Ronda 101K 2026 & Gran Trail de Gredos 2026
 
 ## Tech Stack
 
